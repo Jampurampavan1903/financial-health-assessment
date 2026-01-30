@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 
 # ---------------- CONFIG ----------------
-BACKEND_URL = "http://127.0.0.1:8000/analyze"
+BACKEND_URL = "http://financial-health-assessment.onrender.com/analyze"
 
 st.set_page_config(
     page_title="Financial Health Analyzer",
